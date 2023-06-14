@@ -1,0 +1,12 @@
+prefix=d:/machine_learning_projects/Wafer_project/wafervenv/Library
+exec_prefix=d:/machine_learning_projects/Wafer_project/wafervenv/Library
+libdir=d:/machine_learning_projects/Wafer_project/wafervenv/Library/lib
+includedir=d:/machine_learning_projects/Wafer_project/wafervenv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.4
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

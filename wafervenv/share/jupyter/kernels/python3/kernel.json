@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "d:/machine_learning_projects/Wafer_project/wafervenv\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
